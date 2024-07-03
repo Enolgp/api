@@ -59,6 +59,14 @@
         {
             "id": 15,
             "data": "Finlark fracasa al intentar ligar"
+        },
+        {
+            "id": 16,
+            "data": "Los oficiales olvidan darle la mano a algún NPC"
+        },
+        {
+            "id": 17,
+            "data": "Los oficiales no usan el nombre falso creado por Nova"
         }
     ]
 }
